@@ -14,7 +14,7 @@ import javax.swing.UIManager;
 
 import com.mainInterface.EquipmentMS;
 /**
- * @author Forsaken
+ * @author JY_Forsaken
  * @date 20014Äê05ÔÂ14ÈÕ
  */
 
